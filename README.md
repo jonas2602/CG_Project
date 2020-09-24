@@ -1,4 +1,4 @@
-# Coop-Talk
+# CG_Project
 
 A game by:
 Martin Motschmann
