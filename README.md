@@ -5,9 +5,7 @@ Martin Motschmann
 Jonas Schneider
 Timo Geier
 
-
-
-Sound Files:
+# Sound Files:
 
 Blop Sound
 Recorded by Mark DiAngelo
@@ -18,13 +16,10 @@ Walk and Door Sounds
 Blueprints-Tutorial by Epic Games
 
 
-3D-Modelle
-===========
+# 3D-Modelle
 
 Sci-Fi Fighter (Sample)
 https://www.turbosquid.com/FullPreview/Index.cfm/ID/798902
-
-
 
 Arbitary Studio Models
 https://gumroad.com/l/uPXbQ
@@ -51,8 +46,7 @@ SciFi Hallway by Epic Games
 Super Computer
 https://free3d.com/3d-model/super-camputer-ibm-75503.html
 
-Materials
-===========
+# Materials
 GameTextures Materials Pack By Epic Games
 Inflitrator Demo by Epic Games
 Soul: City by Epic Games
